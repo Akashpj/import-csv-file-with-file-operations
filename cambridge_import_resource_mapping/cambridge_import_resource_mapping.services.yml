@@ -1,0 +1,3 @@
+services:
+  cambridge_import_resource_mapping.services:
+    class: \Drupal\cambridge_import_resource_mapping\Controller\SollarReindexController

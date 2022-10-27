@@ -1,0 +1,10 @@
+cambridge_import_resource_mapping.cambridge_import_resource:
+  path: '/admin/cambridge/import-resource'
+  defaults:
+    _form: '\Drupal\cambridge_import_resource_mapping\Form\ImportResourceMappingForm'
+    _title: 'Cambridge Import Resource Mapping Page'
+  requirements:
+    _permission: 'access content'
+  options:
+    _admin_route: TRUE
+

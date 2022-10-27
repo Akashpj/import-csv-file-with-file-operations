@@ -1,0 +1,14 @@
+cambridge_localization_libraries:
+  js:
+    js/banner_js.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupal
+    - core/jquery.once
+  
+cambridge_localization_semi_sanction:
+  css:
+    component:
+      css/cambridge_localization_css.css: {}
+  js:
+    js/cambridge_localization_js.js: {}
